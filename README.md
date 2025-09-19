@@ -1,4 +1,4 @@
-# Kapil Anandh's SDXL Image Generator
+# SDXL Image Generator
 
 **Learning Session Project**  
 Author: Kapil Anandh P
